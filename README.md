@@ -8,6 +8,8 @@
 * → Developed GUI Terminal — Clang, a desktop GUI tool for safely executing shell commands with history tracking and process control.
 * → Built [Qubts](https://github.com/nee-hit476/Qubts-Process-Cleaner), a lightweight Electron-based desktop utility for background system monitoring and temporary file cleanup.
 * → Open Source Contributions:
+    * ➤ [NumPy](https://github.com/numpy/numpy/pull/31626) Prevent arrow ligatures in generalized ufunc signatures fix #31625- #31626
+#31626  
     * ➤ [FeatherIcons.com](https://github.com/feathericons) fixed animation glitches and optimized Framer Motion performance.
     * ➤ [Holes: Martyr of Dirt](https://muddygame.net/game/) — enhanced gameplay smoothness with automatic dirt clearing synchronized across multiplayer sockets.
  
